@@ -1,0 +1,11 @@
+framework module CouOffsiteAds {
+  umbrella header "CouOffsiteAds.h"
+
+  export *
+  module * { export * }
+}
+
+module CouOffsiteAds.Swift {
+  header "CouOffsiteAds-Swift.h"
+  requires objc
+}
