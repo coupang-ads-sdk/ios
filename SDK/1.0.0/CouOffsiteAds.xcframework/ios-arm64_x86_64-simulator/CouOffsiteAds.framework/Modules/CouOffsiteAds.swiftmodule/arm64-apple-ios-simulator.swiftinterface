@@ -1,0 +1,41 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 5.8 (swiftlang-5.8.0.124.2 clang-1403.0.22.11.100)
+// swift-module-flags: -target arm64-apple-ios12.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name CouOffsiteAds
+// swift-module-flags-ignorable: -enable-bare-slash-regex
+import AdSupport
+import AppTrackingTransparency
+@_exported import CouOffsiteAds
+import Foundation
+import Swift
+import UIKit
+import _Concurrency
+import _StringProcessing
+@_hasMissingDesignatedInitializers public class CouAdsManager {
+  public static let shared: CouOffsiteAds.CouAdsManager
+  public func startWith(affiliateId: Swift.String, subId: Swift.String = "")
+  @objc deinit
+}
+public enum CouAdBannerType {
+  case FIXED_50
+  case FIXED_100
+  case FIXED_250
+  case SMART
+  public static func == (a: CouOffsiteAds.CouAdBannerType, b: CouOffsiteAds.CouAdBannerType) -> Swift.Bool
+  public func hash(into hasher: inout Swift.Hasher)
+  public var hashValue: Swift.Int {
+    get
+  }
+}
+@objc @_hasMissingDesignatedInitializers @_Concurrency.MainActor(unsafe) public class CouAdBannerView : UIKit.UIView {
+  @_Concurrency.MainActor(unsafe) weak public var delegate: (any CouOffsiteAds.CouAdBannerViewDelegate)?
+  @_Concurrency.MainActor(unsafe) public init(affiliatePlacement: Swift.String, affiliatePage: Swift.String, bannerType: CouOffsiteAds.CouAdBannerType, widgetId: Swift.String, rootViewController: UIKit.UIViewController? = nil, positionY: CoreFoundation.CGFloat? = nil)
+  @objc deinit
+}
+public protocol CouAdBannerViewDelegate : AnyObject {
+  func bannerDidClick(_ bannerView: CouOffsiteAds.CouAdBannerView)
+  func bannerViewFailToReceiveAdWithError(_ bannerView: CouOffsiteAds.CouAdBannerView, error: any Swift.Error)
+  func bannerDidReceiveAd(_ bannerView: CouOffsiteAds.CouAdBannerView)
+  func bannerDidUpdateData(_ bannerView: CouOffsiteAds.CouAdBannerView)
+}
+extension CouOffsiteAds.CouAdBannerType : Swift.Equatable {}
+extension CouOffsiteAds.CouAdBannerType : Swift.Hashable {}
