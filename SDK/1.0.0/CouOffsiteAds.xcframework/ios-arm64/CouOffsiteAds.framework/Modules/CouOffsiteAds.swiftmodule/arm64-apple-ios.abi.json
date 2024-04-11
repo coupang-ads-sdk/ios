@@ -1095,855 +1095,890 @@
     },
     {
       "filePath": "\/Users\/jipiao1\/Git\/offsite-ads-ios\/SDK\/CouOffsiteAds\/CouOffsiteAds\/View\/CouAdsBannerBaseView.swift",
+      "kind": "FloatLiteral",
+      "offset": 3570,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/jipiao1\/Git\/offsite-ads-ios\/SDK\/CouOffsiteAds\/CouOffsiteAds\/View\/CouAdsBannerBaseView.swift",
       "kind": "StringLiteral",
-      "offset": 3600,
-      "length": 51,
+      "offset": 3607,
+      "length": 58,
       "value": "\"(\""
     },
     {
       "filePath": "\/Users\/jipiao1\/Git\/offsite-ads-ios\/SDK\/CouOffsiteAds\/CouOffsiteAds\/View\/CouAdsBannerBaseView.swift",
       "kind": "StringLiteral",
-      "offset": 3649,
+      "offset": 3660,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/jipiao1\/Git\/offsite-ads-ios\/SDK\/CouOffsiteAds\/CouOffsiteAds\/View\/CouAdsBannerBaseView.swift",
+      "kind": "StringLiteral",
+      "offset": 3663,
       "length": 1,
       "value": "\")\""
     },
     {
       "filePath": "\/Users\/jipiao1\/Git\/offsite-ads-ios\/SDK\/CouOffsiteAds\/CouOffsiteAds\/View\/CouAdsBannerBaseView.swift",
       "kind": "StringLiteral",
-      "offset": 3751,
-      "length": 16,
+      "offset": 3765,
+      "length": 22,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/jipiao1\/Git\/offsite-ads-ios\/SDK\/CouOffsiteAds\/CouOffsiteAds\/View\/CouAdsBannerBaseView.swift",
       "kind": "StringLiteral",
-      "offset": 3766,
+      "offset": 3783,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/jipiao1\/Git\/offsite-ads-ios\/SDK\/CouOffsiteAds\/CouOffsiteAds\/View\/CouAdsBannerBaseView.swift",
+      "kind": "StringLiteral",
+      "offset": 3786,
       "length": 40,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/jipiao1\/Git\/offsite-ads-ios\/SDK\/CouOffsiteAds\/CouOffsiteAds\/View\/CouAdsBannerBaseView.swift",
       "kind": "StringLiteral",
-      "offset": 3805,
+      "offset": 3825,
       "length": 5,
       "value": "\"원\""
     },
     {
       "filePath": "\/Users\/jipiao1\/Git\/offsite-ads-ios\/SDK\/CouOffsiteAds\/CouOffsiteAds\/View\/CouAdsBannerBaseView.swift",
       "kind": "StringLiteral",
-      "offset": 3857,
+      "offset": 3877,
       "length": 19,
       "value": "\"logo_coupang_w350\""
     },
     {
       "filePath": "\/Users\/jipiao1\/Git\/offsite-ads-ios\/SDK\/CouOffsiteAds\/CouOffsiteAds\/View\/CouAdsBannerBaseView.swift",
       "kind": "StringLiteral",
-      "offset": 4580,
+      "offset": 4600,
       "length": 7,
       "value": "\"FRESH\""
     },
     {
       "filePath": "\/Users\/jipiao1\/Git\/offsite-ads-ios\/SDK\/CouOffsiteAds\/CouOffsiteAds\/View\/CouAdsBannerBaseView.swift",
       "kind": "StringLiteral",
-      "offset": 4616,
+      "offset": 4636,
       "length": 8,
       "value": "\"ROCKET\""
     },
     {
       "filePath": "\/Users\/jipiao1\/Git\/offsite-ads-ios\/SDK\/CouOffsiteAds\/CouOffsiteAds\/View\/CouAdsBannerBaseView.swift",
       "kind": "StringLiteral",
-      "offset": 4651,
+      "offset": 4671,
       "length": 6,
       "value": "\"FREE\""
     },
     {
       "filePath": "\/Users\/jipiao1\/Git\/offsite-ads-ios\/SDK\/CouOffsiteAds\/CouOffsiteAds\/View\/CouAdsBannerBaseView.swift",
       "kind": "StringLiteral",
-      "offset": 4696,
+      "offset": 4716,
       "length": 18,
       "value": "\"CONDITIONAL_FREE\""
     },
     {
       "filePath": "\/Users\/jipiao1\/Git\/offsite-ads-ios\/SDK\/CouOffsiteAds\/CouOffsiteAds\/View\/CouAdsBannerBaseView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 4866,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/jipiao1\/Git\/offsite-ads-ios\/SDK\/CouOffsiteAds\/CouOffsiteAds\/View\/CouAdsBannerBaseView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 4910,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/jipiao1\/Git\/offsite-ads-ios\/SDK\/CouOffsiteAds\/CouOffsiteAds\/View\/CouAdsBannerBaseView.swift",
       "kind": "StringLiteral",
-      "offset": 4867,
+      "offset": 5047,
       "length": 12,
       "value": "\"logo_fresh\""
     },
     {
       "filePath": "\/Users\/jipiao1\/Git\/offsite-ads-ios\/SDK\/CouOffsiteAds\/CouOffsiteAds\/View\/CouAdsBannerBaseView.swift",
       "kind": "BooleanLiteral",
-      "offset": 4979,
+      "offset": 5159,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/jipiao1\/Git\/offsite-ads-ios\/SDK\/CouOffsiteAds\/CouOffsiteAds\/View\/CouAdsBannerBaseView.swift",
       "kind": "StringLiteral",
-      "offset": 5086,
+      "offset": 5266,
       "length": 13,
       "value": "\"logo_rocket\""
     },
     {
       "filePath": "\/Users\/jipiao1\/Git\/offsite-ads-ios\/SDK\/CouOffsiteAds\/CouOffsiteAds\/View\/CouAdsBannerBaseView.swift",
       "kind": "BooleanLiteral",
-      "offset": 5199,
+      "offset": 5379,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/jipiao1\/Git\/offsite-ads-ios\/SDK\/CouOffsiteAds\/CouOffsiteAds\/View\/CouAdsBannerBaseView.swift",
       "kind": "StringLiteral",
-      "offset": 5325,
+      "offset": 5505,
       "length": 14,
       "value": "\"무료배송\""
     },
     {
       "filePath": "\/Users\/jipiao1\/Git\/offsite-ads-ios\/SDK\/CouOffsiteAds\/CouOffsiteAds\/View\/CouAdsBannerBaseView.swift",
       "kind": "BooleanLiteral",
-      "offset": 5470,
+      "offset": 5650,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/jipiao1\/Git\/offsite-ads-ios\/SDK\/CouOffsiteAds\/CouOffsiteAds\/View\/CouAdsBannerBaseView.swift",
       "kind": "BooleanLiteral",
-      "offset": 5526,
+      "offset": 5706,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/jipiao1\/Git\/offsite-ads-ios\/SDK\/CouOffsiteAds\/CouOffsiteAds\/View\/CouAdsBannerBaseView.swift",
       "kind": "BooleanLiteral",
-      "offset": 5570,
+      "offset": 5750,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/jipiao1\/Git\/offsite-ads-ios\/SDK\/CouOffsiteAds\/CouOffsiteAds\/View\/CouAdsBannerBaseView.swift",
       "kind": "IntegerLiteral",
-      "offset": 6164,
+      "offset": 6344,
       "length": 2,
       "value": "50"
     },
     {
       "filePath": "\/Users\/jipiao1\/Git\/offsite-ads-ios\/SDK\/CouOffsiteAds\/CouOffsiteAds\/View\/CouAdsBannerBaseView.swift",
       "kind": "IntegerLiteral",
-      "offset": 6233,
+      "offset": 6413,
       "length": 3,
       "value": "320"
     },
     {
       "filePath": "\/Users\/jipiao1\/Git\/offsite-ads-ios\/SDK\/CouOffsiteAds\/CouOffsiteAds\/View\/CouAdsBannerBaseView.swift",
       "kind": "IntegerLiteral",
-      "offset": 6628,
+      "offset": 6808,
       "length": 2,
       "value": "50"
     },
     {
       "filePath": "\/Users\/jipiao1\/Git\/offsite-ads-ios\/SDK\/CouOffsiteAds\/CouOffsiteAds\/View\/CouAdsBannerBaseView.swift",
       "kind": "IntegerLiteral",
-      "offset": 6790,
+      "offset": 6970,
       "length": 1,
       "value": "5"
     },
     {
       "filePath": "\/Users\/jipiao1\/Git\/offsite-ads-ios\/SDK\/CouOffsiteAds\/CouOffsiteAds\/View\/CouAdsBannerBaseView.swift",
       "kind": "IntegerLiteral",
-      "offset": 6949,
+      "offset": 7129,
       "length": 2,
       "value": "40"
     },
     {
       "filePath": "\/Users\/jipiao1\/Git\/offsite-ads-ios\/SDK\/CouOffsiteAds\/CouOffsiteAds\/View\/CouAdsBannerBaseView.swift",
       "kind": "IntegerLiteral",
-      "offset": 7189,
+      "offset": 7369,
       "length": 2,
       "value": "10"
     },
     {
       "filePath": "\/Users\/jipiao1\/Git\/offsite-ads-ios\/SDK\/CouOffsiteAds\/CouOffsiteAds\/View\/CouAdsBannerBaseView.swift",
       "kind": "IntegerLiteral",
-      "offset": 7280,
+      "offset": 7460,
       "length": 1,
       "value": "5"
     },
     {
       "filePath": "\/Users\/jipiao1\/Git\/offsite-ads-ios\/SDK\/CouOffsiteAds\/CouOffsiteAds\/View\/CouAdsBannerBaseView.swift",
       "kind": "IntegerLiteral",
-      "offset": 7380,
+      "offset": 7560,
       "length": 3,
       "value": "-18"
     },
     {
       "filePath": "\/Users\/jipiao1\/Git\/offsite-ads-ios\/SDK\/CouOffsiteAds\/CouOffsiteAds\/View\/CouAdsBannerBaseView.swift",
       "kind": "IntegerLiteral",
-      "offset": 7450,
+      "offset": 7630,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/jipiao1\/Git\/offsite-ads-ios\/SDK\/CouOffsiteAds\/CouOffsiteAds\/View\/CouAdsBannerBaseView.swift",
       "kind": "IntegerLiteral",
-      "offset": 7593,
+      "offset": 7773,
       "length": 1,
       "value": "3"
     },
     {
       "filePath": "\/Users\/jipiao1\/Git\/offsite-ads-ios\/SDK\/CouOffsiteAds\/CouOffsiteAds\/View\/CouAdsBannerBaseView.swift",
       "kind": "IntegerLiteral",
-      "offset": 7900,
+      "offset": 8080,
       "length": 1,
       "value": "3"
     },
     {
       "filePath": "\/Users\/jipiao1\/Git\/offsite-ads-ios\/SDK\/CouOffsiteAds\/CouOffsiteAds\/View\/CouAdsBannerBaseView.swift",
       "kind": "IntegerLiteral",
-      "offset": 7967,
+      "offset": 8147,
       "length": 2,
       "value": "14"
     },
     {
       "filePath": "\/Users\/jipiao1\/Git\/offsite-ads-ios\/SDK\/CouOffsiteAds\/CouOffsiteAds\/View\/CouAdsBannerBaseView.swift",
       "kind": "IntegerLiteral",
-      "offset": 8034,
+      "offset": 8214,
       "length": 2,
       "value": "60"
     },
     {
       "filePath": "\/Users\/jipiao1\/Git\/offsite-ads-ios\/SDK\/CouOffsiteAds\/CouOffsiteAds\/View\/CouAdsBannerBaseView.swift",
       "kind": "BooleanLiteral",
-      "offset": 9460,
+      "offset": 9640,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/jipiao1\/Git\/offsite-ads-ios\/SDK\/CouOffsiteAds\/CouOffsiteAds\/View\/CouAdsBannerBaseView.swift",
       "kind": "IntegerLiteral",
-      "offset": 9667,
+      "offset": 9847,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/jipiao1\/Git\/offsite-ads-ios\/SDK\/CouOffsiteAds\/CouOffsiteAds\/View\/CouAdsBannerBaseView.swift",
       "kind": "IntegerLiteral",
-      "offset": 9710,
+      "offset": 9890,
       "length": 1,
       "value": "4"
     },
     {
       "filePath": "\/Users\/jipiao1\/Git\/offsite-ads-ios\/SDK\/CouOffsiteAds\/CouOffsiteAds\/View\/CouAdsBannerBaseView.swift",
       "kind": "BooleanLiteral",
-      "offset": 9817,
+      "offset": 9997,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/jipiao1\/Git\/offsite-ads-ios\/SDK\/CouOffsiteAds\/CouOffsiteAds\/View\/CouAdsBannerBaseView.swift",
       "kind": "StringLiteral",
-      "offset": 10018,
+      "offset": 10198,
       "length": 39,
       "value": "\"init(coder:) has not been implemented\""
     },
     {
       "filePath": "\/Users\/jipiao1\/Git\/offsite-ads-ios\/SDK\/CouOffsiteAds\/CouOffsiteAds\/View\/CouAdsBannerBaseView.swift",
       "kind": "IntegerLiteral",
-      "offset": 10716,
+      "offset": 10896,
       "length": 3,
       "value": "100"
     },
     {
       "filePath": "\/Users\/jipiao1\/Git\/offsite-ads-ios\/SDK\/CouOffsiteAds\/CouOffsiteAds\/View\/CouAdsBannerBaseView.swift",
       "kind": "IntegerLiteral",
-      "offset": 10786,
+      "offset": 10966,
       "length": 3,
       "value": "320"
     },
     {
       "filePath": "\/Users\/jipiao1\/Git\/offsite-ads-ios\/SDK\/CouOffsiteAds\/CouOffsiteAds\/View\/CouAdsBannerBaseView.swift",
       "kind": "IntegerLiteral",
-      "offset": 10954,
+      "offset": 11134,
       "length": 2,
       "value": "14"
     },
     {
       "filePath": "\/Users\/jipiao1\/Git\/offsite-ads-ios\/SDK\/CouOffsiteAds\/CouOffsiteAds\/View\/CouAdsBannerBaseView.swift",
       "kind": "IntegerLiteral",
-      "offset": 11057,
+      "offset": 11237,
       "length": 3,
       "value": "-14"
     },
     {
       "filePath": "\/Users\/jipiao1\/Git\/offsite-ads-ios\/SDK\/CouOffsiteAds\/CouOffsiteAds\/View\/CouAdsBannerBaseView.swift",
       "kind": "IntegerLiteral",
-      "offset": 11163,
+      "offset": 11343,
       "length": 2,
       "value": "10"
     },
     {
       "filePath": "\/Users\/jipiao1\/Git\/offsite-ads-ios\/SDK\/CouOffsiteAds\/CouOffsiteAds\/View\/CouAdsBannerBaseView.swift",
       "kind": "IntegerLiteral",
-      "offset": 11418,
+      "offset": 11598,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/jipiao1\/Git\/offsite-ads-ios\/SDK\/CouOffsiteAds\/CouOffsiteAds\/View\/CouAdsBannerBaseView.swift",
       "kind": "IntegerLiteral",
-      "offset": 11516,
+      "offset": 11696,
       "length": 2,
       "value": "10"
     },
     {
       "filePath": "\/Users\/jipiao1\/Git\/offsite-ads-ios\/SDK\/CouOffsiteAds\/CouOffsiteAds\/View\/CouAdsBannerBaseView.swift",
       "kind": "IntegerLiteral",
-      "offset": 11588,
+      "offset": 11768,
       "length": 2,
       "value": "11"
     },
     {
       "filePath": "\/Users\/jipiao1\/Git\/offsite-ads-ios\/SDK\/CouOffsiteAds\/CouOffsiteAds\/View\/CouAdsBannerBaseView.swift",
       "kind": "IntegerLiteral",
-      "offset": 11659,
+      "offset": 11839,
       "length": 2,
       "value": "49"
     },
     {
       "filePath": "\/Users\/jipiao1\/Git\/offsite-ads-ios\/SDK\/CouOffsiteAds\/CouOffsiteAds\/View\/CouAdsBannerBaseView.swift",
       "kind": "IntegerLiteral",
-      "offset": 11893,
+      "offset": 12073,
       "length": 1,
       "value": "4"
     },
     {
       "filePath": "\/Users\/jipiao1\/Git\/offsite-ads-ios\/SDK\/CouOffsiteAds\/CouOffsiteAds\/View\/CouAdsBannerBaseView.swift",
       "kind": "IntegerLiteral",
-      "offset": 11961,
+      "offset": 12141,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/jipiao1\/Git\/offsite-ads-ios\/SDK\/CouOffsiteAds\/CouOffsiteAds\/View\/CouAdsBannerBaseView.swift",
       "kind": "IntegerLiteral",
-      "offset": 12029,
+      "offset": 12209,
       "length": 3,
       "value": "190"
     },
     {
       "filePath": "\/Users\/jipiao1\/Git\/offsite-ads-ios\/SDK\/CouOffsiteAds\/CouOffsiteAds\/View\/CouAdsBannerBaseView.swift",
       "kind": "IntegerLiteral",
-      "offset": 12175,
+      "offset": 12355,
       "length": 1,
       "value": "4"
     },
     {
       "filePath": "\/Users\/jipiao1\/Git\/offsite-ads-ios\/SDK\/CouOffsiteAds\/CouOffsiteAds\/View\/CouAdsBannerBaseView.swift",
       "kind": "IntegerLiteral",
-      "offset": 12484,
+      "offset": 12664,
       "length": 1,
       "value": "4"
     },
     {
       "filePath": "\/Users\/jipiao1\/Git\/offsite-ads-ios\/SDK\/CouOffsiteAds\/CouOffsiteAds\/View\/CouAdsBannerBaseView.swift",
       "kind": "IntegerLiteral",
-      "offset": 12551,
+      "offset": 12731,
       "length": 2,
       "value": "14"
     },
     {
       "filePath": "\/Users\/jipiao1\/Git\/offsite-ads-ios\/SDK\/CouOffsiteAds\/CouOffsiteAds\/View\/CouAdsBannerBaseView.swift",
       "kind": "IntegerLiteral",
-      "offset": 12618,
+      "offset": 12798,
       "length": 2,
       "value": "60"
     },
     {
       "filePath": "\/Users\/jipiao1\/Git\/offsite-ads-ios\/SDK\/CouOffsiteAds\/CouOffsiteAds\/View\/CouAdsBannerBaseView.swift",
       "kind": "IntegerLiteral",
-      "offset": 13493,
+      "offset": 13673,
       "length": 1,
       "value": "5"
     },
     {
       "filePath": "\/Users\/jipiao1\/Git\/offsite-ads-ios\/SDK\/CouOffsiteAds\/CouOffsiteAds\/View\/CouAdsBannerBaseView.swift",
       "kind": "IntegerLiteral",
-      "offset": 13651,
+      "offset": 13831,
       "length": 2,
       "value": "24"
     },
     {
       "filePath": "\/Users\/jipiao1\/Git\/offsite-ads-ios\/SDK\/CouOffsiteAds\/CouOffsiteAds\/View\/CouAdsBannerBaseView.swift",
       "kind": "IntegerLiteral",
-      "offset": 13723,
+      "offset": 13903,
       "length": 2,
       "value": "24"
     },
     {
       "filePath": "\/Users\/jipiao1\/Git\/offsite-ads-ios\/SDK\/CouOffsiteAds\/CouOffsiteAds\/View\/CouAdsBannerBaseView.swift",
       "kind": "BooleanLiteral",
-      "offset": 13840,
+      "offset": 14020,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/jipiao1\/Git\/offsite-ads-ios\/SDK\/CouOffsiteAds\/CouOffsiteAds\/View\/CouAdsBannerBaseView.swift",
       "kind": "IntegerLiteral",
-      "offset": 14047,
+      "offset": 14227,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/jipiao1\/Git\/offsite-ads-ios\/SDK\/CouOffsiteAds\/CouOffsiteAds\/View\/CouAdsBannerBaseView.swift",
       "kind": "IntegerLiteral",
-      "offset": 14090,
+      "offset": 14270,
       "length": 1,
       "value": "4"
     },
     {
       "filePath": "\/Users\/jipiao1\/Git\/offsite-ads-ios\/SDK\/CouOffsiteAds\/CouOffsiteAds\/View\/CouAdsBannerBaseView.swift",
       "kind": "StringLiteral",
-      "offset": 14216,
+      "offset": 14396,
       "length": 18,
       "value": "\"icon_arrow_right\""
     },
     {
       "filePath": "\/Users\/jipiao1\/Git\/offsite-ads-ios\/SDK\/CouOffsiteAds\/CouOffsiteAds\/View\/CouAdsBannerBaseView.swift",
       "kind": "IntegerLiteral",
-      "offset": 14940,
+      "offset": 15120,
       "length": 3,
       "value": "250"
     },
     {
       "filePath": "\/Users\/jipiao1\/Git\/offsite-ads-ios\/SDK\/CouOffsiteAds\/CouOffsiteAds\/View\/CouAdsBannerBaseView.swift",
       "kind": "IntegerLiteral",
-      "offset": 15010,
+      "offset": 15190,
       "length": 3,
       "value": "320"
     },
     {
       "filePath": "\/Users\/jipiao1\/Git\/offsite-ads-ios\/SDK\/CouOffsiteAds\/CouOffsiteAds\/View\/CouAdsBannerBaseView.swift",
       "kind": "IntegerLiteral",
-      "offset": 15178,
+      "offset": 15358,
       "length": 2,
       "value": "14"
     },
     {
       "filePath": "\/Users\/jipiao1\/Git\/offsite-ads-ios\/SDK\/CouOffsiteAds\/CouOffsiteAds\/View\/CouAdsBannerBaseView.swift",
       "kind": "IntegerLiteral",
-      "offset": 15283,
+      "offset": 15463,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Users\/jipiao1\/Git\/offsite-ads-ios\/SDK\/CouOffsiteAds\/CouOffsiteAds\/View\/CouAdsBannerBaseView.swift",
       "kind": "IntegerLiteral",
-      "offset": 15357,
+      "offset": 15537,
       "length": 3,
       "value": "158"
     },
     {
       "filePath": "\/Users\/jipiao1\/Git\/offsite-ads-ios\/SDK\/CouOffsiteAds\/CouOffsiteAds\/View\/CouAdsBannerBaseView.swift",
       "kind": "IntegerLiteral",
-      "offset": 15433,
+      "offset": 15613,
       "length": 2,
       "value": "24"
     },
     {
       "filePath": "\/Users\/jipiao1\/Git\/offsite-ads-ios\/SDK\/CouOffsiteAds\/CouOffsiteAds\/View\/CouAdsBannerBaseView.swift",
       "kind": "IntegerLiteral",
-      "offset": 15686,
+      "offset": 15866,
       "length": 2,
       "value": "14"
     },
     {
       "filePath": "\/Users\/jipiao1\/Git\/offsite-ads-ios\/SDK\/CouOffsiteAds\/CouOffsiteAds\/View\/CouAdsBannerBaseView.swift",
       "kind": "IntegerLiteral",
-      "offset": 15754,
+      "offset": 15934,
       "length": 3,
       "value": "158"
     },
     {
       "filePath": "\/Users\/jipiao1\/Git\/offsite-ads-ios\/SDK\/CouOffsiteAds\/CouOffsiteAds\/View\/CouAdsBannerBaseView.swift",
       "kind": "IntegerLiteral",
-      "offset": 15898,
+      "offset": 16078,
       "length": 2,
       "value": "12"
     },
     {
       "filePath": "\/Users\/jipiao1\/Git\/offsite-ads-ios\/SDK\/CouOffsiteAds\/CouOffsiteAds\/View\/CouAdsBannerBaseView.swift",
       "kind": "IntegerLiteral",
-      "offset": 16136,
+      "offset": 16316,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/jipiao1\/Git\/offsite-ads-ios\/SDK\/CouOffsiteAds\/CouOffsiteAds\/View\/CouAdsBannerBaseView.swift",
       "kind": "IntegerLiteral",
-      "offset": 16298,
+      "offset": 16478,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/jipiao1\/Git\/offsite-ads-ios\/SDK\/CouOffsiteAds\/CouOffsiteAds\/View\/CouAdsBannerBaseView.swift",
       "kind": "IntegerLiteral",
-      "offset": 16447,
+      "offset": 16627,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/jipiao1\/Git\/offsite-ads-ios\/SDK\/CouOffsiteAds\/CouOffsiteAds\/View\/CouAdsBannerBaseView.swift",
       "kind": "IntegerLiteral",
-      "offset": 16693,
+      "offset": 16873,
       "length": 3,
       "value": "-16"
     },
     {
       "filePath": "\/Users\/jipiao1\/Git\/offsite-ads-ios\/SDK\/CouOffsiteAds\/CouOffsiteAds\/View\/CouAdsBannerBaseView.swift",
       "kind": "IntegerLiteral",
-      "offset": 16788,
+      "offset": 16968,
       "length": 2,
       "value": "18"
     },
     {
       "filePath": "\/Users\/jipiao1\/Git\/offsite-ads-ios\/SDK\/CouOffsiteAds\/CouOffsiteAds\/View\/CouAdsBannerBaseView.swift",
       "kind": "IntegerLiteral",
-      "offset": 16860,
+      "offset": 17040,
       "length": 2,
       "value": "14"
     },
     {
       "filePath": "\/Users\/jipiao1\/Git\/offsite-ads-ios\/SDK\/CouOffsiteAds\/CouOffsiteAds\/View\/CouAdsBannerBaseView.swift",
       "kind": "IntegerLiteral",
-      "offset": 16931,
+      "offset": 17111,
       "length": 2,
       "value": "63"
     },
     {
       "filePath": "\/Users\/jipiao1\/Git\/offsite-ads-ios\/SDK\/CouOffsiteAds\/CouOffsiteAds\/View\/CouAdsBannerBaseView.swift",
       "kind": "IntegerLiteral",
-      "offset": 17239,
+      "offset": 17419,
       "length": 3,
       "value": "120"
     },
     {
       "filePath": "\/Users\/jipiao1\/Git\/offsite-ads-ios\/SDK\/CouOffsiteAds\/CouOffsiteAds\/View\/CouAdsBannerBaseView.swift",
       "kind": "IntegerLiteral",
-      "offset": 17315,
+      "offset": 17495,
       "length": 3,
       "value": "120"
     },
     {
       "filePath": "\/Users\/jipiao1\/Git\/offsite-ads-ios\/SDK\/CouOffsiteAds\/CouOffsiteAds\/View\/CouAdsBannerBaseView.swift",
       "kind": "IntegerLiteral",
-      "offset": 17464,
+      "offset": 17644,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/jipiao1\/Git\/offsite-ads-ios\/SDK\/CouOffsiteAds\/CouOffsiteAds\/View\/CouAdsBannerBaseView.swift",
       "kind": "IntegerLiteral",
-      "offset": 17614,
+      "offset": 17794,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Users\/jipiao1\/Git\/offsite-ads-ios\/SDK\/CouOffsiteAds\/CouOffsiteAds\/View\/CouAdsBannerBaseView.swift",
       "kind": "IntegerLiteral",
-      "offset": 17681,
+      "offset": 17861,
       "length": 2,
       "value": "65"
     },
     {
       "filePath": "\/Users\/jipiao1\/Git\/offsite-ads-ios\/SDK\/CouOffsiteAds\/CouOffsiteAds\/View\/CouAdsBannerBaseView.swift",
       "kind": "IntegerLiteral",
-      "offset": 18667,
+      "offset": 18847,
       "length": 3,
       "value": "-16"
     },
     {
       "filePath": "\/Users\/jipiao1\/Git\/offsite-ads-ios\/SDK\/CouOffsiteAds\/CouOffsiteAds\/View\/CouAdsBannerBaseView.swift",
       "kind": "IntegerLiteral",
-      "offset": 18740,
+      "offset": 18920,
       "length": 2,
       "value": "38"
     },
     {
       "filePath": "\/Users\/jipiao1\/Git\/offsite-ads-ios\/SDK\/CouOffsiteAds\/CouOffsiteAds\/View\/CouAdsBannerBaseView.swift",
       "kind": "StringLiteral",
-      "offset": 19247,
+      "offset": 19427,
       "length": 22,
       "value": "\"이런건 어때요?\""
     },
     {
       "filePath": "\/Users\/jipiao1\/Git\/offsite-ads-ios\/SDK\/CouOffsiteAds\/CouOffsiteAds\/View\/CouAdsBannerBaseView.swift",
       "kind": "IntegerLiteral",
-      "offset": 19342,
+      "offset": 19522,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/jipiao1\/Git\/offsite-ads-ios\/SDK\/CouOffsiteAds\/CouOffsiteAds\/View\/CouAdsBannerBaseView.swift",
       "kind": "IntegerLiteral",
-      "offset": 19481,
+      "offset": 19661,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/jipiao1\/Git\/offsite-ads-ios\/SDK\/CouOffsiteAds\/CouOffsiteAds\/View\/CouAdsBannerBaseView.swift",
       "kind": "IntegerLiteral",
-      "offset": 19524,
+      "offset": 19704,
       "length": 1,
       "value": "4"
     },
     {
       "filePath": "\/Users\/jipiao1\/Git\/offsite-ads-ios\/SDK\/CouOffsiteAds\/CouOffsiteAds\/View\/CouAdsBannerBaseView.swift",
       "kind": "StringLiteral",
-      "offset": 19635,
+      "offset": 19815,
       "length": 18,
       "value": "\"더 알아보기\""
     },
     {
       "filePath": "\/Users\/jipiao1\/Git\/offsite-ads-ios\/SDK\/CouOffsiteAds\/CouOffsiteAds\/View\/CouAdsBannerBaseView.swift",
       "kind": "StringLiteral",
-      "offset": 19780,
+      "offset": 19960,
       "length": 24,
       "value": "\"icon_arrow_right_12*12\""
     },
     {
       "filePath": "\/Users\/jipiao1\/Git\/offsite-ads-ios\/SDK\/CouOffsiteAds\/CouOffsiteAds\/View\/CouAdsBannerBaseView.swift",
       "kind": "IntegerLiteral",
-      "offset": 20044,
+      "offset": 20224,
       "length": 1,
       "value": "4"
     },
     {
       "filePath": "\/Users\/jipiao1\/Git\/offsite-ads-ios\/SDK\/CouOffsiteAds\/CouOffsiteAds\/View\/CouAdsBannerBaseView.swift",
       "kind": "IntegerLiteral",
-      "offset": 20088,
+      "offset": 20268,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/jipiao1\/Git\/offsite-ads-ios\/SDK\/CouOffsiteAds\/CouOffsiteAds\/View\/CouAdsBannerBaseView.swift",
       "kind": "StringLiteral",
-      "offset": 20407,
+      "offset": 20587,
       "length": 39,
       "value": "\"init(coder:) has not been implemented\""
     },
     {
       "filePath": "\/Users\/jipiao1\/Git\/offsite-ads-ios\/SDK\/CouOffsiteAds\/CouOffsiteAds\/View\/CouAdsBannerBaseView.swift",
       "kind": "IntegerLiteral",
-      "offset": 20687,
+      "offset": 20867,
       "length": 3,
       "value": "375"
     },
     {
       "filePath": "\/Users\/jipiao1\/Git\/offsite-ads-ios\/SDK\/CouOffsiteAds\/CouOffsiteAds\/View\/CouAdsBannerBaseView.swift",
       "kind": "IntegerLiteral",
-      "offset": 21370,
+      "offset": 21550,
       "length": 2,
       "value": "32"
     },
     {
       "filePath": "\/Users\/jipiao1\/Git\/offsite-ads-ios\/SDK\/CouOffsiteAds\/CouOffsiteAds\/View\/CouAdsBannerBaseView.swift",
       "kind": "IntegerLiteral",
-      "offset": 21524,
+      "offset": 21704,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/jipiao1\/Git\/offsite-ads-ios\/SDK\/CouOffsiteAds\/CouOffsiteAds\/View\/CouAdsBannerBaseView.swift",
       "kind": "IntegerLiteral",
-      "offset": 21628,
+      "offset": 21808,
       "length": 2,
       "value": "10"
     },
     {
       "filePath": "\/Users\/jipiao1\/Git\/offsite-ads-ios\/SDK\/CouOffsiteAds\/CouOffsiteAds\/View\/CouAdsBannerBaseView.swift",
       "kind": "IntegerLiteral",
-      "offset": 21702,
+      "offset": 21882,
       "length": 2,
       "value": "30"
     },
     {
       "filePath": "\/Users\/jipiao1\/Git\/offsite-ads-ios\/SDK\/CouOffsiteAds\/CouOffsiteAds\/View\/CouAdsBannerBaseView.swift",
       "kind": "IntegerLiteral",
-      "offset": 21777,
+      "offset": 21957,
       "length": 2,
       "value": "30"
     },
     {
       "filePath": "\/Users\/jipiao1\/Git\/offsite-ads-ios\/SDK\/CouOffsiteAds\/CouOffsiteAds\/View\/CouAdsBannerBaseView.swift",
       "kind": "IntegerLiteral",
-      "offset": 21939,
+      "offset": 22119,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/jipiao1\/Git\/offsite-ads-ios\/SDK\/CouOffsiteAds\/CouOffsiteAds\/View\/CouAdsBannerBaseView.swift",
       "kind": "IntegerLiteral",
-      "offset": 22098,
+      "offset": 22278,
       "length": 2,
       "value": "12"
     },
     {
       "filePath": "\/Users\/jipiao1\/Git\/offsite-ads-ios\/SDK\/CouOffsiteAds\/CouOffsiteAds\/View\/CouAdsBannerBaseView.swift",
       "kind": "IntegerLiteral",
-      "offset": 22169,
+      "offset": 22349,
       "length": 2,
       "value": "51"
     },
     {
       "filePath": "\/Users\/jipiao1\/Git\/offsite-ads-ios\/SDK\/CouOffsiteAds\/CouOffsiteAds\/View\/CouAdsBannerBaseView.swift",
       "kind": "IntegerLiteral",
-      "offset": 22322,
+      "offset": 22502,
       "length": 1,
       "value": "5"
     },
     {
       "filePath": "\/Users\/jipiao1\/Git\/offsite-ads-ios\/SDK\/CouOffsiteAds\/CouOffsiteAds\/View\/CouAdsBannerBaseView.swift",
       "kind": "IntegerLiteral",
-      "offset": 23093,
+      "offset": 23273,
       "length": 2,
       "value": "52"
     },
     {
       "filePath": "\/Users\/jipiao1\/Git\/offsite-ads-ios\/SDK\/CouOffsiteAds\/CouOffsiteAds\/View\/CouAdsBannerBaseView.swift",
       "kind": "IntegerLiteral",
-      "offset": 23247,
+      "offset": 23427,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/jipiao1\/Git\/offsite-ads-ios\/SDK\/CouOffsiteAds\/CouOffsiteAds\/View\/CouAdsBannerBaseView.swift",
       "kind": "IntegerLiteral",
-      "offset": 23351,
+      "offset": 23531,
       "length": 2,
       "value": "10"
     },
     {
       "filePath": "\/Users\/jipiao1\/Git\/offsite-ads-ios\/SDK\/CouOffsiteAds\/CouOffsiteAds\/View\/CouAdsBannerBaseView.swift",
       "kind": "IntegerLiteral",
-      "offset": 23425,
+      "offset": 23605,
       "length": 2,
       "value": "48"
     },
     {
       "filePath": "\/Users\/jipiao1\/Git\/offsite-ads-ios\/SDK\/CouOffsiteAds\/CouOffsiteAds\/View\/CouAdsBannerBaseView.swift",
       "kind": "IntegerLiteral",
-      "offset": 23500,
+      "offset": 23680,
       "length": 2,
       "value": "48"
     },
     {
       "filePath": "\/Users\/jipiao1\/Git\/offsite-ads-ios\/SDK\/CouOffsiteAds\/CouOffsiteAds\/View\/CouAdsBannerBaseView.swift",
       "kind": "IntegerLiteral",
-      "offset": 23662,
+      "offset": 23842,
       "length": 1,
       "value": "5"
     },
     {
       "filePath": "\/Users\/jipiao1\/Git\/offsite-ads-ios\/SDK\/CouOffsiteAds\/CouOffsiteAds\/View\/CouAdsBannerBaseView.swift",
       "kind": "IntegerLiteral",
-      "offset": 23821,
+      "offset": 24001,
       "length": 2,
       "value": "40"
     },
     {
       "filePath": "\/Users\/jipiao1\/Git\/offsite-ads-ios\/SDK\/CouOffsiteAds\/CouOffsiteAds\/View\/CouAdsBannerBaseView.swift",
       "kind": "IntegerLiteral",
-      "offset": 24074,
+      "offset": 24254,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/jipiao1\/Git\/offsite-ads-ios\/SDK\/CouOffsiteAds\/CouOffsiteAds\/View\/CouAdsBannerBaseView.swift",
       "kind": "IntegerLiteral",
-      "offset": 24174,
+      "offset": 24354,
       "length": 3,
       "value": "-16"
     },
     {
       "filePath": "\/Users\/jipiao1\/Git\/offsite-ads-ios\/SDK\/CouOffsiteAds\/CouOffsiteAds\/View\/CouAdsBannerBaseView.swift",
       "kind": "IntegerLiteral",
-      "offset": 24266,
+      "offset": 24446,
       "length": 1,
       "value": "6"
     },
     {
       "filePath": "\/Users\/jipiao1\/Git\/offsite-ads-ios\/SDK\/CouOffsiteAds\/CouOffsiteAds\/View\/CouAdsBannerBaseView.swift",
       "kind": "IntegerLiteral",
-      "offset": 24334,
+      "offset": 24514,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/jipiao1\/Git\/offsite-ads-ios\/SDK\/CouOffsiteAds\/CouOffsiteAds\/View\/CouAdsBannerBaseView.swift",
       "kind": "IntegerLiteral",
-      "offset": 24674,
+      "offset": 24854,
       "length": 1,
       "value": "3"
     },
     {
       "filePath": "\/Users\/jipiao1\/Git\/offsite-ads-ios\/SDK\/CouOffsiteAds\/CouOffsiteAds\/View\/CouAdsBannerBaseView.swift",
       "kind": "IntegerLiteral",
-      "offset": 24771,
+      "offset": 24951,
       "length": 1,
       "value": "4"
     },
     {
       "filePath": "\/Users\/jipiao1\/Git\/offsite-ads-ios\/SDK\/CouOffsiteAds\/CouOffsiteAds\/View\/CouAdsBannerBaseView.swift",
       "kind": "IntegerLiteral",
-      "offset": 24838,
+      "offset": 25018,
       "length": 2,
       "value": "14"
     },
     {
       "filePath": "\/Users\/jipiao1\/Git\/offsite-ads-ios\/SDK\/CouOffsiteAds\/CouOffsiteAds\/View\/CouAdsBannerBaseView.swift",
       "kind": "IntegerLiteral",
-      "offset": 24905,
+      "offset": 25085,
       "length": 2,
       "value": "56"
     },
     {
       "filePath": "\/Users\/jipiao1\/Git\/offsite-ads-ios\/SDK\/CouOffsiteAds\/CouOffsiteAds\/View\/CouAdsBannerBaseView.swift",
       "kind": "IntegerLiteral",
-      "offset": 26132,
+      "offset": 26312,
       "length": 3,
       "value": "375"
     },
     {
       "filePath": "\/Users\/jipiao1\/Git\/offsite-ads-ios\/SDK\/CouOffsiteAds\/CouOffsiteAds\/View\/CouAdsBannerBaseView.swift",
       "kind": "BooleanLiteral",
-      "offset": 26419,
+      "offset": 26599,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/jipiao1\/Git\/offsite-ads-ios\/SDK\/CouOffsiteAds\/CouOffsiteAds\/View\/CouAdsBannerBaseView.swift",
       "kind": "IntegerLiteral",
-      "offset": 26473,
+      "offset": 26653,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/jipiao1\/Git\/offsite-ads-ios\/SDK\/CouOffsiteAds\/CouOffsiteAds\/View\/CouAdsBannerBaseView.swift",
       "kind": "BooleanLiteral",
-      "offset": 26617,
+      "offset": 26797,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/jipiao1\/Git\/offsite-ads-ios\/SDK\/CouOffsiteAds\/CouOffsiteAds\/View\/CouAdsBannerBaseView.swift",
       "kind": "BooleanLiteral",
-      "offset": 26652,
+      "offset": 26832,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/jipiao1\/Git\/offsite-ads-ios\/SDK\/CouOffsiteAds\/CouOffsiteAds\/View\/CouAdsBannerBaseView.swift",
       "kind": "IntegerLiteral",
-      "offset": 26703,
+      "offset": 26883,
       "length": 2,
       "value": "12"
     },
@@ -9391,21 +9426,21 @@
     {
       "filePath": "\/Users\/jipiao1\/Git\/offsite-ads-ios\/SDK\/CouOffsiteAds\/CouOffsiteAds\/Category\/UIImageView+load.swift",
       "kind": "StringLiteral",
-      "offset": 308,
+      "offset": 343,
       "length": 31,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/jipiao1\/Git\/offsite-ads-ios\/SDK\/CouOffsiteAds\/CouOffsiteAds\/Category\/UIImageView+load.swift",
       "kind": "StringLiteral",
-      "offset": 332,
+      "offset": 367,
       "length": 1,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/jipiao1\/Git\/offsite-ads-ios\/SDK\/CouOffsiteAds\/CouOffsiteAds\/Category\/UIImageView+load.swift",
       "kind": "StringLiteral",
-      "offset": 338,
+      "offset": 373,
       "length": 18,
       "value": "\"\""
     },
@@ -9671,42 +9706,42 @@
     {
       "filePath": "\/Users\/jipiao1\/Git\/offsite-ads-ios\/SDK\/CouOffsiteAds\/CouOffsiteAds\/Model\/AdModel.swift",
       "kind": "StringLiteral",
-      "offset": 546,
+      "offset": 524,
       "length": 16,
       "value": "\"impression_url\""
     },
     {
       "filePath": "\/Users\/jipiao1\/Git\/offsite-ads-ios\/SDK\/CouOffsiteAds\/CouOffsiteAds\/Model\/AdModel.swift",
       "kind": "StringLiteral",
-      "offset": 599,
+      "offset": 577,
       "length": 24,
       "value": "\"loading_impression_url\""
     },
     {
       "filePath": "\/Users\/jipiao1\/Git\/offsite-ads-ios\/SDK\/CouOffsiteAds\/CouOffsiteAds\/Model\/AdModel.swift",
       "kind": "StringLiteral",
-      "offset": 649,
+      "offset": 627,
       "length": 12,
       "value": "\"optout_url\""
     },
     {
       "filePath": "\/Users\/jipiao1\/Git\/offsite-ads-ios\/SDK\/CouOffsiteAds\/CouOffsiteAds\/Model\/AdModel.swift",
       "kind": "StringLiteral",
-      "offset": 546,
+      "offset": 524,
       "length": 16,
       "value": "\"impression_url\""
     },
     {
       "filePath": "\/Users\/jipiao1\/Git\/offsite-ads-ios\/SDK\/CouOffsiteAds\/CouOffsiteAds\/Model\/AdModel.swift",
       "kind": "StringLiteral",
-      "offset": 599,
+      "offset": 577,
       "length": 24,
       "value": "\"loading_impression_url\""
     },
     {
       "filePath": "\/Users\/jipiao1\/Git\/offsite-ads-ios\/SDK\/CouOffsiteAds\/CouOffsiteAds\/Model\/AdModel.swift",
       "kind": "StringLiteral",
-      "offset": 649,
+      "offset": 627,
       "length": 12,
       "value": "\"optout_url\""
     },
