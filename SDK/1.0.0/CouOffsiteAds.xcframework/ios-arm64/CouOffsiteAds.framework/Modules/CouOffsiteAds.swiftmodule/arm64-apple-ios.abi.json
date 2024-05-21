@@ -9410,13 +9410,6 @@
       "value": "\"requestId\""
     },
     {
-      "filePath": "\/Users\/jipiao1\/Git\/offsite-ads-ios\/SDK\/CouOffsiteAds\/CouOffsiteAds\/DataProvider\/CouAdsRequest.swift",
-      "kind": "StringLiteral",
-      "offset": 1301,
-      "length": 27,
-      "value": "\"offsite-sdk-1708308413130\""
-    },
-    {
       "filePath": "\/Users\/jipiao1\/Git\/offsite-ads-ios\/SDK\/CouOffsiteAds\/CouOffsiteAds\/Category\/UIImageView+load.swift",
       "kind": "StringLiteral",
       "offset": 154,
@@ -9499,6 +9492,41 @@
       "offset": 418,
       "length": 2,
       "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/jipiao1\/Git\/offsite-ads-ios\/SDK\/CouOffsiteAds\/CouOffsiteAds\/Category\/String+extension.swift",
+      "kind": "StringLiteral",
+      "offset": 551,
+      "length": 19,
+      "value": "\"yyyyMMddHHmmssSSS\""
+    },
+    {
+      "filePath": "\/Users\/jipiao1\/Git\/offsite-ads-ios\/SDK\/CouOffsiteAds\/CouOffsiteAds\/Category\/String+extension.swift",
+      "kind": "IntegerLiteral",
+      "offset": 680,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/jipiao1\/Git\/offsite-ads-ios\/SDK\/CouOffsiteAds\/CouOffsiteAds\/Category\/String+extension.swift",
+      "kind": "IntegerLiteral",
+      "offset": 684,
+      "length": 6,
+      "value": "999999"
+    },
+    {
+      "filePath": "\/Users\/jipiao1\/Git\/offsite-ads-ios\/SDK\/CouOffsiteAds\/CouOffsiteAds\/Category\/String+extension.swift",
+      "kind": "StringLiteral",
+      "offset": 737,
+      "length": 6,
+      "value": "\"%06d\""
+    },
+    {
+      "filePath": "\/Users\/jipiao1\/Git\/offsite-ads-ios\/SDK\/CouOffsiteAds\/CouOffsiteAds\/Category\/String+extension.swift",
+      "kind": "StringLiteral",
+      "offset": 774,
+      "length": 10,
+      "value": "\"ios-sdk-\""
     },
     {
       "filePath": "\/Users\/jipiao1\/Git\/offsite-ads-ios\/SDK\/CouOffsiteAds\/CouOffsiteAds\/Model\/CouAdRawInfo.swift",
